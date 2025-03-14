@@ -8,18 +8,22 @@
 
 .play__icon {
     color: white;
+    margin: 0 15px 15px 5px;
 }
 
 .pause__icon {
     color: white;
+    margin: 0 15px 15px 5px;
 }
 
 .volume-up__icon {
     color: white;
+    margin: 0 15px 15px 15px;
 }
 
 .volume-off__icon {
     color: white;
+    margin: 0 15px 15px 15px;
 }
 
 .play__menu {
