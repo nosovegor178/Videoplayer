@@ -3,6 +3,10 @@ button {
     cursor: pointer;
 }
 
+.fa-play {
+    color: white;
+}
+
 .play__menu {
     width: 100%;
     height: 19px;
