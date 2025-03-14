@@ -1,6 +1,7 @@
 button {
     border-style: none;
     cursor: pointer;
+    background-color: transparent;
 }
 
 .fa-play {
