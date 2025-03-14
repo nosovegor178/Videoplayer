@@ -1,4 +1,10 @@
-.play__button {
+button {
     border-style: none;
     cursor: pointer;
+}
+
+.play__menu {
+    width: 100%;
+    height: 19px;
+    background-color: black;
 }
