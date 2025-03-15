@@ -78,4 +78,3 @@ cython_debug/
 *.png
 *.jpeg
 *.gif
-screenshot.png
