@@ -1,22 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 .player__button {
     border-style: none;
     cursor: pointer;
     background-color: transparent;
-    height: 35px;
-    width: 35px;
-    color: white;
+    height: 50px;
+    width: 39px;
+    font-size: 15px;
+    color: #ffffff;
 }
 
-.empty_box {
-    flex-grow: 4;
+.right__button {
+    margin-right: 3px;
+}
+
+.time-box {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 1px;
 }
 
 .play__menu {
     background-color: black;
     display: flex;
     align-items: center;
-    padding-block: 10px;
-    padding-inline: 5px;
 }
 
 .player {
